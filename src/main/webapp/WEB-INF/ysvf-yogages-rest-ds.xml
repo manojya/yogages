@@ -36,7 +36,7 @@
     <datasource jndi-name="java:jboss/datasources/ysvf-yogages-restDS"
         pool-name="ysvf-yogages-rest" enabled="true"
         use-java-context="true">
-        <connection-url>jdbc:mysql://127.6.9.130:3306/yogages</connection-url>
+        <connection-url>jdbc:mysql://127.12.128.130:3306/yogages</connection-url>
         <driver>mysql</driver>
         <security>
             <user-name>yogages</user-name>
